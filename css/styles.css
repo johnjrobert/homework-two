@@ -1,7 +1,7 @@
-@font-face {
+/* @font-face {
   font-family: titleCard;
   src: url(/css/fonts/Lobster-Regular.ttf);
-}
+} */
 
 * {
   margin: 0;
@@ -57,13 +57,13 @@ a {
 .fancyText {
   text-decoration: none;
   color: #faf0ca;
-  font-family: titleCard;
+  font-family: "Lobster", cursive;
 }
 
 footer {
   text-decoration: none;
   color: #faf0ca;
-  font-family: titleCard;
+  font-family: "Lobster", cursive;
   height: 175px;
   width: 100%;
   background-color: #30292f;
@@ -134,13 +134,13 @@ footer {
 .page-header {
   color: #faf0ca;
   /* font-family: Arial, Helvetica, sans-serif; */
-  font-family: titleCard;
+  font-family: "Lobster", cursive;
   font-size: 200px;
 }
 
 .page-subheader {
   color: white;
-  font-family: titleCard;
+  font-family: "Lobster", cursive;
   font-size: 35px;
   /* font-family: Arial, Helvetica, sans-serif; */
 }
@@ -271,7 +271,7 @@ footer {
 .mission {
   color: #faf0ca;
   text-align: center;
-  font-family: titleCard;
+  font-family: "Lobster", cursive;
   font-size: 70px;
 }
 
@@ -294,7 +294,7 @@ footer {
 .meet-the-team {
   color: #faf0ca;
   text-align: center;
-  font-family: titleCard;
+  font-family: "Lobster", cursive;
   font-size: 70px;
   padding-bottom: 30px;
 }
@@ -334,7 +334,7 @@ footer {
   height: 75px;
   width: 250px;
   /* background-color: darkorange; */
-  font-family: titleCard;
+  font-family: "Lobster", cursive;
   font-size: 25px;
   color: #faf0ca;
 }
